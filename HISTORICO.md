@@ -10,8 +10,14 @@ Formatos:
 
 ## ✔ Projetos concluídos
 
-### **01 — Extrator de Gastos Fixos a partir de Texto Solto**
+### **001 — Extrator de Gastos Fixos a partir de Texto Solto**
 - 🧩 Tipo: Limpador de dados / Regex / Automação financeira
 - ⏱️ Duração: 1h (incluindo template e setup)
 - 🛠️ Skills usadas: Regex, CSV, CLI, processamento de texto
 - ⭐ Resolve uma dor real e é útil de verdade
+
+### **002 — Validador de URLs em Lote**
+- 🧩 Tipo: Automação / Web / Validação de links
+- ⏱️ Duração: ~1h
+- 🛠️ Skills usadas: CSV, HTTP, urllib, parsing básico
+- ⭐ Resolve uma dor real: verificar links quebrados de forma rápida e organizada

@@ -14,25 +14,20 @@ Este script recebe um arquivo CSV simples com uma coluna `url` e valida cada end
 O resultado é salvo em um novo CSV pronto para Excel, Data Studio ou BI.
 
 ## Como usar
-```bash
 python main.py urls.csv resultado.csv
-```
 
 ## Exemplo de entrada
-```
 url
 https://google.com
 https://dominioquenaoexiste12345.com
 https://httpstat.us/302
-```
+
 
 ## Exemplo de saída
-```
 url,status_code,status,tempo_ms
 https://google.com,200,valida,43
 https://dominioquenaoexiste12345.com,0,offline,0
 https://httpstat.us/302,302,redireciona,28
-```
 
 ## Melhorias futuras
 - Suporte a múltiplas threads para acelerar a validação

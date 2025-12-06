@@ -21,3 +21,9 @@ Formatos:
 - ⏱️ Duração: ~1h
 - 🛠️ Skills usadas: CSV, HTTP, urllib, parsing básico
 - ⭐ Resolve uma dor real: verificar links quebrados de forma rápida e organizada
+
+### **003 — Misturador de PDFs (Merge de PDFs)
+- 🧩 Tipo: Automação / Manipulação de PDFs
+- ⏱️ Duração: ~1h
+- 🛠️ Skills usadas: PyPDF2 (ou pypdf), filesystem, CLI
+- ⭐ Resolve uma dor real: juntar vários PDFs de forma simples e rápida sem instalar ferramentas externas

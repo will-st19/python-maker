@@ -27,3 +27,9 @@ Formatos:
 - ⏱️ Duração: ~1h
 - 🛠️ Skills usadas: PyPDF2 (ou pypdf), filesystem, CLI
 - ⭐ Resolve uma dor real: juntar vários PDFs de forma simples e rápida sem instalar ferramentas externas
+
+### **004 — Análise de Vendas (Coffee Shop Kaggle)
+- 🧩 Tipo: Dados / Análise / Projeto curto
+- ⏱️ Duração: ~1h
+- 🛠️ Skills usadas: Pandas, Matplotlib, agregações, CSV, insights
+- ⭐ Entrega insights reais e acionáveis usando um dataset público

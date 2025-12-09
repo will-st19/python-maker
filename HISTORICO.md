@@ -33,3 +33,9 @@ Formatos:
 - ⏱️ Duração: ~1h
 - 🛠️ Skills usadas: Pandas, Matplotlib, agregações, CSV, insights
 - ⭐ Entrega insights reais e acionáveis usando um dataset público
+
+### **005 — Conversor de Moedas (API Flask)**
+- 🧩 Tipo: API / Web / Automação  
+- ⏱️ Duração: ~1h  
+- 🛠️ Skills usadas: Flask, JSON, validação de parâmetros, lógica simples  
+- ⭐ Micro-API útil e clara, ideal para treinar rotas, validações e boas práticas 

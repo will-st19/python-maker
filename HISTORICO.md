@@ -39,3 +39,9 @@ Formatos:
 - ⏱️ Duração: ~1h  
 - 🛠️ Skills usadas: Flask, JSON, validação de parâmetros, lógica simples  
 - ⭐ Micro-API útil e clara, ideal para treinar rotas, validações e boas práticas 
+
+### **006 — Análise de Vendas (Pastelaria do Zé)**
+- 🧩 Tipo: Dados / Simulação / Análise
+- ⏱️ Duração: ~1h
+- 🛠️ Skills usadas: Pandas, limpeza de dados, tratamento de outliers, Matplotlib, lógica de simulação
+- ⭐ Simula vendas reais de uma pastelaria e gera insights claros de receita, fluxo e itens mais lucrativos.

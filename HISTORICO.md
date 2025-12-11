@@ -45,3 +45,9 @@ Formatos:
 - ⏱️ Duração: ~1h
 - 🛠️ Skills usadas: Pandas, limpeza de dados, tratamento de outliers, Matplotlib, lógica de simulação
 - ⭐ Simula vendas reais de uma pastelaria e gera insights claros de receita, fluxo e itens mais lucrativos.
+
+### **007 — Análise de Spam SMS (NLP Básico)**
+- 🧩 Tipo: Dados / NLP / Exploração
+- ⏱️ Duração: ~2h
+- 🛠️ Skills usadas: Pandas, limpeza textual, feature engineering, teste de hipótese, Matplotlib, WordCloud
+- ⭐ Projeto leve de NLP: extrai padrões claros entre mensagens spam e ham, gera gráficos, executa T-test e produz uma análise interpretável para decisões iniciais.

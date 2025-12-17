@@ -51,3 +51,9 @@ Formatos:
 - ⏱️ Duração: ~2h
 - 🛠️ Skills usadas: Pandas, limpeza textual, feature engineering, teste de hipótese, Matplotlib, WordCloud
 - ⭐ Projeto leve de NLP: extrai padrões claros entre mensagens spam e ham, gera gráficos, executa T-test e produz uma análise interpretável para decisões iniciais.
+
+### **008 — Análise de Vendas de Supermercado**
+- 🧩 Tipo: Dados / Análise / Negócio
+- ⏱️ Duração: ~30–45 min
+- 🛠️ Skills usadas: Pandas, groupby, agregações, CSV, leitura de métricas de negócio
+- ⭐ Responde perguntas diretas de gestão (pagamento, tipo de cliente e produto mais lucrativo) usando dados reais de varejo.

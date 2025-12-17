@@ -1,0 +1,10 @@
+# Ignore tudo dentro desta pasta
+*
+
+# Exceto datasets pequenos
+!*.csv
+!*.xlsx
+!*.json
+
+# Exceto este arquivo .gitignore
+!.gitignore

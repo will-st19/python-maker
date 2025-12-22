@@ -57,3 +57,9 @@ Formatos:
 - ⏱️ Duração: ~30–45 min
 - 🛠️ Skills usadas: Pandas, groupby, agregações, CSV, leitura de métricas de negócio
 - ⭐ Responde perguntas diretas de gestão (pagamento, tipo de cliente e produto mais lucrativo) usando dados reais de varejo.
+
+### **009 — Análise de Vendas (Padaria / Pastelaria Fake)**
+- 🧩 Tipo: Dados / Simulação / Análise
+- ⏱️ Duração: ~1h
+- 🛠️ Skills usadas: Pandas, leitura de CSV, definição de schema, análise exploratória inicial
+- ⭐ Cria e analisa um dataset fictício de vendas de padaria, focando em perguntas reais de negócio e construção de um pipeline simples e evolutivo.

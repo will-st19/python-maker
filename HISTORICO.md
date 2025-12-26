@@ -63,3 +63,9 @@ Formatos:
 - ⏱️ Duração: ~1h
 - 🛠️ Skills usadas: Pandas, leitura de CSV, definição de schema, análise exploratória inicial
 - ⭐ Cria e analisa um dataset fictício de vendas de padaria, focando em perguntas reais de negócio e construção de um pipeline simples e evolutivo.
+
+### **010 — Pipeline ETL Básico com Dados Sujos (CSV → Dados Tratados)**
+- 🧩 Tipo: Dados / Engenharia / ETL
+- ⏱️ Duração: ~45–60 min
+- 🛠️ Skills usadas: Pandas, geração de dados sintéticos, validação de schema, tratamento de nulos e inválidos, regras de negócio, persistência
+- ⭐ Projeto-chave de engenharia: cria um dataset propositalmente sujo, aplica regras claras de limpeza e validação, e gera uma base final pronta para consumo analítico ou carga em banco.
